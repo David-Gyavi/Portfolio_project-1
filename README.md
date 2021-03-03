@@ -10,7 +10,7 @@ In this portfolio you will be able to navigate with custom tuggle button through
 
 ## Table of Contents
 * [UX](#ux)
-    *[User Goals](#user-goals)
+    * [User Goals](#user-goals)
     * [User Stories](#user-stories)
     * [Site Owners Goals](#site-owners-goals)
     * [User Requirements and Expectations](#user-requirements-and-expectations)
